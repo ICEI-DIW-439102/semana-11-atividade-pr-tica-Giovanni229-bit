@@ -5,12 +5,12 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome: Giovanni Oliveira Martins Rosa
+- Nome: Giovanni Oliveira Martins
 - Matricula: 908174
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![alt](home_page.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![alt](detalhes.png)
 
