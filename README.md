@@ -5,8 +5,8 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanni Oliveira Martins Rosa
+- Matricula: 908174
 
 ## Prints do trabalho
 
